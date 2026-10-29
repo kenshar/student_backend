@@ -15,6 +15,7 @@ student = [
 ]
 
 # GET all students
+
 @app.route("/students", methods=["GET"])
 def get_students():
     return jsonify(student)
