@@ -14,6 +14,7 @@ student = [
     {"name": "Stacy Brown","id": 23,"major": "Chemistry"}
 ]
 
+
 # GET all students
 
 @app.route("/students", methods=["GET"])
