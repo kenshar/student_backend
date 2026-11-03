@@ -11,7 +11,8 @@ student = [
     {"name": "Jane Smith","id": 22,"major": "Mathematics"},
     {"name": "Michael Johnson","id": 21,"major": "Physics"},
     {"name": "Emily Davis","id": 19,"major": "Biology"},
-    {"name": "Stacy Brown","id": 23,"major": "Chemistry"}
+    {"name": "Stacy Brown","id": 23,"major": "Chemistry"},
+    {"name": "Fally Ipupa", "id": 34, "major": "Music"},
     {"name": "Naomi Raine","id":25,"major": "History"}
 ]
 
